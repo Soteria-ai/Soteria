@@ -1,0 +1,3 @@
+numpy
+tensorflow
+cloudpathlib[s3]
