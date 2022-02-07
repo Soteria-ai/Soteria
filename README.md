@@ -5,7 +5,7 @@
 Soteria uses machine learning with satellite imagery to map natural disaster impacts for faster emergency response. 
 
 Youtube Demo: https://youtu.be/frjIm_FDlhc  
-Hugging Face ML Demo: https://huggingface.co/spaces/samt/soteria
+Hugging Face ML Demo: https://huggingface.co/spaces/samt/soteria  
 Devpost Home page: https://devpost.com/software/soteria-yolciw  
 Presentation Slides: [link](https://docs.google.com/presentation/d/1jU2ZUkhJnA-4_aBZwyvP9bfCBZsQZwaYSPLROFvgByc/edit?usp=sharing)
 
