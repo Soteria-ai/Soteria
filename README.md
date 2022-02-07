@@ -20,6 +20,7 @@ Regional Damage Level Classification: [![Open In Studio Lab](https://studiolab.s
 ![Team](./images/team.png)
 
 ## Background
+The scale, scope and intensity of natural disasters ranging from hurricanes to wildfire is only increasing as the effects of climate change worsen. The lives lost and impacted continue to highlight peoples vulnerability to these disastrous events. As a team, we wanted to use our areas of interest and expertise to serve communities who have or will be impacted by natural disasters. We don’t need to be on the ground of a disaster to make an impact. Inspired by the potential that AI has for improving the quality of life, we applied this to natural disasters. We wanted our model to be applicable to all natural disaster globally, but first we start on the East coast of Malaysia.
 ![Background](./images/background.png)
 
 ## Our Project 
