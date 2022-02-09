@@ -40,6 +40,11 @@ Learn more: https://arxiv.org/abs/1911.09296
 ### Models
 ![Models](./images/models.png)
 
+## Figma Prototype
+![Figma-1](./images/figma-1.png)
+![Figma-2](./images/figma-2.png)
+![Figma-3](./images/figma-3.png)
+![Figma-4](./images/figma-4.png)
 
 ## Inspirations/Resources
 * [AI For Good — Disaster Response by Shairoz Sohail](https://medium.com/geoai/ai-for-good-disaster-response-3e0669dfc038)
